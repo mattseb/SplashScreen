@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826536683883",
+    "project_id": "tallerexamen-a804b",
+    "storage_bucket": "tallerexamen-a804b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826536683883:android:1049731bb8490055d8c42e",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826536683883-ojc0qn7fr1uulmvfpqusivnth0rkuapt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApp1oGDErK73lmBNr5rfN3jH8nfgmn7ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826536683883-ojc0qn7fr1uulmvfpqusivnth0rkuapt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
